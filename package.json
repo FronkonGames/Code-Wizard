@@ -1,0 +1,31 @@
+{
+  "name": "com.frokongames.tools.codewizard",
+  "version": "0.0.1",
+  "displayName": "Code Wizard",
+  "description": "Generation of customizable code templates for Unity.",
+  "references": [ ],
+  "unity": "2021.3",
+  "unityRelease": "26f1",
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "dependencies":  {  },
+  "keywords": [ "unity", "unity3d", "gamedev", "gamedevelopment", "indiedev", "code", "template", "tool", "wizard", "templates" ],
+  "category": "Unity",
+  "repository":
+  {
+    "type": "git",
+    "url": "git+https://github.com/FronkonGames/Code-Wizard.git"
+  },  
+  "author":
+  {
+    "name": "Martin Bustos",
+    "email": "fronkongames@gmail.com",
+    "url": "https://fronkongames.github.io/"
+  }
+}
